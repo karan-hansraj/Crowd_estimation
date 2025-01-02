@@ -1,6 +1,6 @@
-# {Crowd Density Estimation with YOLOv8}
+# Crowd Density Estimation with YOLOv8
 
-=====================================
+
 
 ## Overview
 
